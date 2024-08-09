@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I am Pedro Costa.👋
 
-<!--
-**pedrocosta-7/pedrocosta-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 
+I’m Pedro Costa, a student passionate about JavaScript, Web Development, and Mobile Development. With hands-on project experience and a strong desire to learn, I’m always seeking challenges that help me grow as a developer. 
 
-Here are some ideas to get you started:
+🔗 Let’s connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: https://www.linkedin.com/in/pedro-costa-b27880207/
+
+Email: pedronascimento.cst@gmail.com
+
+I’m excited to collaborate on innovative projects and contribute with my passion for technology. Feel free to explore my projects and get in touch!
+
